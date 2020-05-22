@@ -1,18 +1,16 @@
 # react-native-slider-smile
 
-#### top = false
-![SliderBox](assets/screen01.png)
-
-#### top = true
-![SliderBox](assets/screen02.png)
+| Top = false | Top = true |
+|--|--|
+| ![SliderBox](assets/screen01.png) | ![SliderBox](assets/screen02.png) |
 
 ## Custom Slider Smile
 > This component is based on the slider ([this slider](https://github.com/jeanregisser/react-native-slider)), it was just customized
 
 | Props | Value Type | Description | Default |
 |--|--|--|--|
-| value | Number | value from sets Slider controller | 5 |
-| onValueChange | function) | function that monitors the change in value | ()=>{} |
+| value | number | value from sets Slider controller | 5 |
+| onValueChange | function | function that monitors the change in value | ()=>{} |
 | top | layout | put smiles above the bar | false |
 | showInText | array | set a text from number selected | [] |
 | showNumber | bool | show value in pin slider | true |
