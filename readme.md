@@ -7,7 +7,7 @@
 ![SliderBox](assets/screen02.png)
 
 ## Custom Slider Smile
-> This component is based on the slider, it was just customized
+> This component is based on the slider ([this slider](https://github.com/jeanregisser/react-native-slider)), it was just customized
 
 | Props | Value Type | Description | Default |
 |--|--|--|--|
