@@ -1,3 +1,3 @@
-import SliderSmile from './src/SliderSmile'
+import SliderSmile from './dist/SliderSmile'
 
 export { SliderSmile }

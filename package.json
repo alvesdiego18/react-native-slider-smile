@@ -1,6 +1,6 @@
 {
   "name": "react-native-slider-smile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple custom slider",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/alvesdiego18/react-native-slider-smile/issues"
   },
-  "homepage": "https://github.com/alvesdiego18/react-native-slider-smile#readme",
-  "dependencies": {
-    "@react-native-community/slider": "^2.0.9"
-  }
+  "homepage": "https://github.com/alvesdiego18/react-native-slider-smile#readme"  
 }
