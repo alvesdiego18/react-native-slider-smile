@@ -1,10 +1,10 @@
 # react-native-slider-smile
 
 #### top = false
-![SliderBox](src/assets/screen01.png)
+![SliderBox](assets/screen01.png)
 
 #### top = true
-![SliderBox](src/assets/screen02.png)
+![SliderBox](assets/screen02.png)
 
 ## Custom Slider Smile
 > This component is based on the slider, it was just customized
