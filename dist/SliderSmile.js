@@ -2,9 +2,9 @@ import React from 'react'
 import { View, Text, Image, StyleSheet } from 'react-native'
 
 import Slider from './Slider'
-import barra from './assets/barra.png'
-import smileFeliz from './assets/smilefeliz.png'
-import smileTriste from './assets/smiletriste.png'
+import barra from './../assets/barra.png'
+import smileFeliz from './../assets/smilefeliz.png'
+import smileTriste from './../assets/smiletriste.png'
 
 function SliderSmile({ value, onValueChange, showInText, top, showNumber = true }) {
 
